@@ -1,6 +1,6 @@
 # Rubric Auto-Detection
 
-Load `base.md` and `product-quality.md` **always**. Then check the target for domain signals and load matching files.
+Load `base.md`, `product-quality.md`, and `security.md` **always**. Then check the target for domain signals and load matching files.
 
 | Signal | Check | Load |
 |--------|-------|------|
