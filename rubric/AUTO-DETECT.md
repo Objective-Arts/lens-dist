@@ -5,6 +5,7 @@ Load `base.md`, `product-quality.md`, and `security.md` **always**. Then check t
 | Signal | Check | Load |
 |--------|-------|------|
 | TypeScript | `.ts`/`.tsx` files, `tsconfig.json`, type annotations, interfaces, generics | `typescript.md` |
+| D3 | `d3-selection`, `d3-scale`, `d3-shape`, `d3-transition`, `d3.select`, `d3.scaleLinear`, `<svg>` bindings | `d3.md` |
 | Angular | `@angular/core`, `@Component`, `@Injectable`, `NgModule`, `angular.json`, `.component.ts`, `.service.ts` | `angular.md` |
 | Java | `.java` files, `pom.xml`, `build.gradle`, `@SpringBootApplication`, `@RestController`, `javax.`/`jakarta.` imports | `java.md` |
 | HTTP server | Express, Fastify, Koa, Hono, `http.createServer`, `app.listen`, `router.get`, ASP.NET, Flask, Django | `web-api.md` |
