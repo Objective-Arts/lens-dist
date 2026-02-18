@@ -1,5 +1,5 @@
 {
-  "name": "claude-lens",
+  "name": "lens-dist",
   "version": "1.0.0",
   "description": "Full Claude Code quality toolkit. 13-dimension scanner, workflow pipeline, canon expertise, rubric system.",
   "scripts": {
